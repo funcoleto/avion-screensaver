@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7A4B7BE625D74C7300120106 /* nubeArribaIzquierda.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A4B7BE025D74C7200120106 /* nubeArribaIzquierda.png */; };
+		7A4B7BE725D74C7300120106 /* soloAvion1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A4B7BE125D74C7200120106 /* soloAvion1.png */; };
+		7A4B7BE825D74C7300120106 /* soloAvion2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A4B7BE225D74C7200120106 /* soloAvion2.png */; };
+		7A4B7BE925D74C7300120106 /* fondo.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A4B7BE325D74C7300120106 /* fondo.png */; };
+		7A4B7BEA25D74C7300120106 /* nubeAbajoIzquierda.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A4B7BE425D74C7300120106 /* nubeAbajoIzquierda.png */; };
+		7A4B7BEB25D74C7300120106 /* nubeAbajo.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A4B7BE525D74C7300120106 /* nubeAbajo.png */; };
 		7A6B91C025D5BBE500FB8A0A /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A6B91BF25D5BBE500FB8A0A /* GameScene.swift */; };
 		7A7C0D5B25D588BC00D09AA7 /* AvionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A7C0D5A25D588BC00D09AA7 /* AvionView.swift */; };
 		7A7C0D8925D5A82C00D09AA7 /* avi2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A7C0D8725D5A82C00D09AA7 /* avi2.png */; };
@@ -14,6 +20,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7A4B7BE025D74C7200120106 /* nubeArribaIzquierda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nubeArribaIzquierda.png; sourceTree = "<group>"; };
+		7A4B7BE125D74C7200120106 /* soloAvion1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = soloAvion1.png; sourceTree = "<group>"; };
+		7A4B7BE225D74C7200120106 /* soloAvion2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = soloAvion2.png; sourceTree = "<group>"; };
+		7A4B7BE325D74C7300120106 /* fondo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fondo.png; sourceTree = "<group>"; };
+		7A4B7BE425D74C7300120106 /* nubeAbajoIzquierda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nubeAbajoIzquierda.png; sourceTree = "<group>"; };
+		7A4B7BE525D74C7300120106 /* nubeAbajo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nubeAbajo.png; sourceTree = "<group>"; };
 		7A6B91BF25D5BBE500FB8A0A /* GameScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		7A7C0D4B25D5886F00D09AA7 /* Avion.saver */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Avion.saver; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A7C0D5225D5886F00D09AA7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -57,6 +69,12 @@
 				7A6B91BF25D5BBE500FB8A0A /* GameScene.swift */,
 				7A7C0D8825D5A82C00D09AA7 /* avi1.png */,
 				7A7C0D8725D5A82C00D09AA7 /* avi2.png */,
+				7A4B7BE325D74C7300120106 /* fondo.png */,
+				7A4B7BE525D74C7300120106 /* nubeAbajo.png */,
+				7A4B7BE425D74C7300120106 /* nubeAbajoIzquierda.png */,
+				7A4B7BE025D74C7200120106 /* nubeArribaIzquierda.png */,
+				7A4B7BE125D74C7200120106 /* soloAvion1.png */,
+				7A4B7BE225D74C7200120106 /* soloAvion2.png */,
 			);
 			path = Avion;
 			sourceTree = "<group>";
@@ -129,8 +147,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7A4B7BE925D74C7300120106 /* fondo.png in Resources */,
+				7A4B7BE725D74C7300120106 /* soloAvion1.png in Resources */,
 				7A7C0D8A25D5A82C00D09AA7 /* avi1.png in Resources */,
 				7A7C0D8925D5A82C00D09AA7 /* avi2.png in Resources */,
+				7A4B7BEA25D74C7300120106 /* nubeAbajoIzquierda.png in Resources */,
+				7A4B7BE825D74C7300120106 /* soloAvion2.png in Resources */,
+				7A4B7BE625D74C7300120106 /* nubeArribaIzquierda.png in Resources */,
+				7A4B7BEB25D74C7300120106 /* nubeAbajo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

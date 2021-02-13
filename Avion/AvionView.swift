@@ -11,11 +11,12 @@ import SpriteKit
 class AvionView: ScreenSaverView {
 
      
+    
        var mazeScene: GameScene?
 
        override init?(frame: NSRect, isPreview: Bool) {
            super.init(frame: frame, isPreview: isPreview)
-           
+           //print("")
            //probably not needed, but cant hurt to check in case we re-use this code later
            for subview in self.subviews {
                subview.removeFromSuperview()
