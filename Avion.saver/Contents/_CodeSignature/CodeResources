@@ -12,6 +12,30 @@
 		<data>
 		f3clxK9FvazDdSdVFlr+3TzMRkQ=
 		</data>
+		<key>Resources/fondo.png</key>
+		<data>
+		drBavJtMJludNd9O7PRWtYazSSY=
+		</data>
+		<key>Resources/nubeAbajo.png</key>
+		<data>
+		BuwJS5Mc5f64s6u9LKarWJeIKdI=
+		</data>
+		<key>Resources/nubeAbajoIzquierda.png</key>
+		<data>
+		RjednDJXZi00zt3SUvlLhEbzw/c=
+		</data>
+		<key>Resources/nubeArribaIzquierda.png</key>
+		<data>
+		rv2+5SjomFOuDEyaLZV7+UlxKGI=
+		</data>
+		<key>Resources/soloAvion1.png</key>
+		<data>
+		g2lJHS3OHkkNPEVO+ukS8VLDfM8=
+		</data>
+		<key>Resources/soloAvion2.png</key>
+		<data>
+		B52d64S2JK2GA9f6Ie3FTL5yJXQ=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -27,6 +51,48 @@
 			<key>hash2</key>
 			<data>
 			OmfUs+WRZHtEAm+YSAn3ZqTWRsB1hxkK9U/mMNFr3Dw=
+			</data>
+		</dict>
+		<key>Resources/fondo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nqwXOqsJg+grc+fEHk1gQmVuuDVwt+rDP9imvaZCeec=
+			</data>
+		</dict>
+		<key>Resources/nubeAbajo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			v8P9iH4Z1DebDKfQU94NRg5N04ylXpkc/gpvMuynURQ=
+			</data>
+		</dict>
+		<key>Resources/nubeAbajoIzquierda.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mg9rUmlxbn5o7hjsAjNMTp1XlBErgOPfdEYEC/fZ8BE=
+			</data>
+		</dict>
+		<key>Resources/nubeArribaIzquierda.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			s8i7jRNPBeJvIRflb3hWt2z7p0JIDf9Zqg/5SzrCJ0U=
+			</data>
+		</dict>
+		<key>Resources/soloAvion1.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			T8f6zg9chaCAIL7eAsQseTw+IyloJZC9Gl3lbyp8Lfw=
+			</data>
+		</dict>
+		<key>Resources/soloAvion2.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7ei71XnTyi6FmyaJ78+Qs4IYM7nThiQ8sSKUuVnAoEY=
 			</data>
 		</dict>
 	</dict>
