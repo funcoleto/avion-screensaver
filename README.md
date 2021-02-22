@@ -10,11 +10,12 @@ screensaver plane
 
 # 22 Febrero 2021
 
-Es un protector de pantalla con dos imagenes para mac os 10.15, esta hecho con swift y spritekit, scene.
+Es un protector de pantalla con dos imagenes de avion para mac os 10.15, esta hecho con swift y spritekit, scene.
+Se añadió un menú para poder elegir cuantas nubes salen cada segundo.
 
-_(El gif va lento ya que se grabo a poco resolucion pero el protector de pantalla va de lujo.)_
+_(El gif va lento ya que se grabo a poco resolución pero el protector de pantalla va de lujo.)_
 
-### Install
+### Instalación
 * [**Descarga el protector**](https://github.com/funcoleto/avion-screensaver/blob/master/Avion.saver.zip)
 * Disfruta 🍎
 
