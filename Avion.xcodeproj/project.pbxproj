@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7A38F11A25DC845400C0F818 /* ConfigureSheetController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A38F11925DC845400C0F818 /* ConfigureSheetController.swift */; };
+		7A38F11D25DC845700C0F818 /* ConfigureSheetController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A38F11925DC845400C0F818 /* ConfigureSheetController.swift */; };
+		7A38F12125DC849F00C0F818 /* ConfigureSheet.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7A38F12025DC849F00C0F818 /* ConfigureSheet.xib */; };
+		7A38F12825DC950500C0F818 /* ConfigureSheet.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7A38F12025DC849F00C0F818 /* ConfigureSheet.xib */; };
 		7A4B7BE625D74C7300120106 /* nubeArribaIzquierda.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A4B7BE025D74C7200120106 /* nubeArribaIzquierda.png */; };
 		7A4B7BE725D74C7300120106 /* soloAvion1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A4B7BE125D74C7200120106 /* soloAvion1.png */; };
 		7A4B7BE825D74C7300120106 /* soloAvion2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A4B7BE225D74C7200120106 /* soloAvion2.png */; };
@@ -16,10 +20,26 @@
 		7A6B91C025D5BBE500FB8A0A /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A6B91BF25D5BBE500FB8A0A /* GameScene.swift */; };
 		7A7C0D5B25D588BC00D09AA7 /* AvionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A7C0D5A25D588BC00D09AA7 /* AvionView.swift */; };
 		7A7C0D8925D5A82C00D09AA7 /* avi2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A7C0D8725D5A82C00D09AA7 /* avi2.png */; };
-		7A7C0D8A25D5A82C00D09AA7 /* avi1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A7C0D8825D5A82C00D09AA7 /* avi1.png */; };
+		7A7C0D8A25D5A82C00D09AA7 /* thumbnail.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A7C0D8825D5A82C00D09AA7 /* thumbnail.png */; };
+		7AC5414025DBC13600F68D72 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AC5413F25DBC13600F68D72 /* AppDelegate.swift */; };
+		7AD0458025DAC2E4009519F2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD0457F25DAC2E4009519F2 /* ViewController.swift */; };
+		7AD0458225DAC2EB009519F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7AD0458125DAC2EB009519F2 /* Assets.xcassets */; };
+		7AD0458525DAC2EB009519F2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7AD0458325DAC2EB009519F2 /* Main.storyboard */; };
+		7AD0458F25DAC314009519F2 /* avi2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A7C0D8725D5A82C00D09AA7 /* avi2.png */; };
+		7AD0459025DAC314009519F2 /* fondo.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A4B7BE325D74C7300120106 /* fondo.png */; };
+		7AD0459125DAC314009519F2 /* AvionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A7C0D5A25D588BC00D09AA7 /* AvionView.swift */; };
+		7AD0459225DAC314009519F2 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A6B91BF25D5BBE500FB8A0A /* GameScene.swift */; };
+		7AD0459325DAC314009519F2 /* nubeAbajo.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A4B7BE525D74C7300120106 /* nubeAbajo.png */; };
+		7AD0459425DAC314009519F2 /* nubeAbajoIzquierda.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A4B7BE425D74C7300120106 /* nubeAbajoIzquierda.png */; };
+		7AD0459525DAC314009519F2 /* soloAvion2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A4B7BE225D74C7200120106 /* soloAvion2.png */; };
+		7AD0459625DAC314009519F2 /* thumbnail.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A7C0D8825D5A82C00D09AA7 /* thumbnail.png */; };
+		7AD0459725DAC314009519F2 /* nubeArribaIzquierda.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A4B7BE025D74C7200120106 /* nubeArribaIzquierda.png */; };
+		7AD0459825DAC314009519F2 /* soloAvion1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7A4B7BE125D74C7200120106 /* soloAvion1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7A38F11925DC845400C0F818 /* ConfigureSheetController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConfigureSheetController.swift; sourceTree = "<group>"; };
+		7A38F12025DC849F00C0F818 /* ConfigureSheet.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ConfigureSheet.xib; sourceTree = "<group>"; };
 		7A4B7BE025D74C7200120106 /* nubeArribaIzquierda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nubeArribaIzquierda.png; sourceTree = "<group>"; };
 		7A4B7BE125D74C7200120106 /* soloAvion1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = soloAvion1.png; sourceTree = "<group>"; };
 		7A4B7BE225D74C7200120106 /* soloAvion2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = soloAvion2.png; sourceTree = "<group>"; };
@@ -31,7 +51,14 @@
 		7A7C0D5225D5886F00D09AA7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7A7C0D5A25D588BC00D09AA7 /* AvionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvionView.swift; sourceTree = "<group>"; };
 		7A7C0D8725D5A82C00D09AA7 /* avi2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = avi2.png; sourceTree = "<group>"; };
-		7A7C0D8825D5A82C00D09AA7 /* avi1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = avi1.png; sourceTree = "<group>"; };
+		7A7C0D8825D5A82C00D09AA7 /* thumbnail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = thumbnail.png; sourceTree = "<group>"; };
+		7AC5413F25DBC13600F68D72 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		7AD0457B25DAC2E4009519F2 /* testAvion.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testAvion.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7AD0457F25DAC2E4009519F2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		7AD0458125DAC2EB009519F2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		7AD0458425DAC2EB009519F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		7AD0458625DAC2EB009519F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7AD0458725DAC2EB009519F2 /* testAvion.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = testAvion.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,13 +69,31 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		7AD0457825DAC2E4009519F2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7A38F11825DC83AE00C0F818 /* preferencias */ = {
+			isa = PBXGroup;
+			children = (
+				7A7C0D8825D5A82C00D09AA7 /* thumbnail.png */,
+				7A38F11925DC845400C0F818 /* ConfigureSheetController.swift */,
+				7A38F12025DC849F00C0F818 /* ConfigureSheet.xib */,
+			);
+			path = preferencias;
+			sourceTree = "<group>";
+		};
 		7A7C0D4125D5886F00D09AA7 = {
 			isa = PBXGroup;
 			children = (
-				7A7C0D4D25D5886F00D09AA7 /* Avion */,
+				7A7C0D4D25D5886F00D09AA7 /* Avion screensaver */,
+				7AD0457C25DAC2E4009519F2 /* testAvion */,
 				7A7C0D4C25D5886F00D09AA7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -57,17 +102,18 @@
 			isa = PBXGroup;
 			children = (
 				7A7C0D4B25D5886F00D09AA7 /* Avion.saver */,
+				7AD0457B25DAC2E4009519F2 /* testAvion.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7A7C0D4D25D5886F00D09AA7 /* Avion */ = {
+		7A7C0D4D25D5886F00D09AA7 /* Avion screensaver */ = {
 			isa = PBXGroup;
 			children = (
+				7A38F11825DC83AE00C0F818 /* preferencias */,
 				7A7C0D5225D5886F00D09AA7 /* Info.plist */,
 				7A7C0D5A25D588BC00D09AA7 /* AvionView.swift */,
 				7A6B91BF25D5BBE500FB8A0A /* GameScene.swift */,
-				7A7C0D8825D5A82C00D09AA7 /* avi1.png */,
 				7A7C0D8725D5A82C00D09AA7 /* avi2.png */,
 				7A4B7BE325D74C7300120106 /* fondo.png */,
 				7A4B7BE525D74C7300120106 /* nubeAbajo.png */,
@@ -76,7 +122,20 @@
 				7A4B7BE125D74C7200120106 /* soloAvion1.png */,
 				7A4B7BE225D74C7200120106 /* soloAvion2.png */,
 			);
-			path = Avion;
+			path = "Avion screensaver";
+			sourceTree = "<group>";
+		};
+		7AD0457C25DAC2E4009519F2 /* testAvion */ = {
+			isa = PBXGroup;
+			children = (
+				7AC5413F25DBC13600F68D72 /* AppDelegate.swift */,
+				7AD0457F25DAC2E4009519F2 /* ViewController.swift */,
+				7AD0458125DAC2EB009519F2 /* Assets.xcassets */,
+				7AD0458325DAC2EB009519F2 /* Main.storyboard */,
+				7AD0458625DAC2EB009519F2 /* Info.plist */,
+				7AD0458725DAC2EB009519F2 /* testAvion.entitlements */,
+			);
+			path = testAvion;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -110,17 +169,38 @@
 			productReference = 7A7C0D4B25D5886F00D09AA7 /* Avion.saver */;
 			productType = "com.apple.product-type.bundle";
 		};
+		7AD0457A25DAC2E4009519F2 /* testAvion */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7AD0458825DAC2EB009519F2 /* Build configuration list for PBXNativeTarget "testAvion" */;
+			buildPhases = (
+				7AD0457725DAC2E4009519F2 /* Sources */,
+				7AD0457825DAC2E4009519F2 /* Frameworks */,
+				7AD0457925DAC2E4009519F2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = testAvion;
+			productName = testAvion;
+			productReference = 7AD0457B25DAC2E4009519F2 /* testAvion.app */;
+			productType = "com.apple.product-type.application";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
 		7A7C0D4225D5886F00D09AA7 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 1230;
 				LastUpgradeCheck = 1210;
 				TargetAttributes = {
 					7A7C0D4A25D5886F00D09AA7 = {
 						CreatedOnToolsVersion = 12.1;
 						LastSwiftMigration = 1210;
+					};
+					7AD0457A25DAC2E4009519F2 = {
+						CreatedOnToolsVersion = 12.3;
 					};
 				};
 			};
@@ -138,6 +218,7 @@
 			projectRoot = "";
 			targets = (
 				7A7C0D4A25D5886F00D09AA7 /* Avion */,
+				7AD0457A25DAC2E4009519F2 /* testAvion */,
 			);
 		};
 /* End PBXProject section */
@@ -149,12 +230,31 @@
 			files = (
 				7A4B7BE925D74C7300120106 /* fondo.png in Resources */,
 				7A4B7BE725D74C7300120106 /* soloAvion1.png in Resources */,
-				7A7C0D8A25D5A82C00D09AA7 /* avi1.png in Resources */,
+				7A7C0D8A25D5A82C00D09AA7 /* thumbnail.png in Resources */,
 				7A7C0D8925D5A82C00D09AA7 /* avi2.png in Resources */,
 				7A4B7BEA25D74C7300120106 /* nubeAbajoIzquierda.png in Resources */,
+				7A38F12125DC849F00C0F818 /* ConfigureSheet.xib in Resources */,
 				7A4B7BE825D74C7300120106 /* soloAvion2.png in Resources */,
 				7A4B7BE625D74C7300120106 /* nubeArribaIzquierda.png in Resources */,
 				7A4B7BEB25D74C7300120106 /* nubeAbajo.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7AD0457925DAC2E4009519F2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7AD0459525DAC314009519F2 /* soloAvion2.png in Resources */,
+				7AD0458225DAC2EB009519F2 /* Assets.xcassets in Resources */,
+				7AD0458525DAC2EB009519F2 /* Main.storyboard in Resources */,
+				7AD0459025DAC314009519F2 /* fondo.png in Resources */,
+				7AD0459625DAC314009519F2 /* thumbnail.png in Resources */,
+				7AD0459725DAC314009519F2 /* nubeArribaIzquierda.png in Resources */,
+				7AD0458F25DAC314009519F2 /* avi2.png in Resources */,
+				7AD0459425DAC314009519F2 /* nubeAbajoIzquierda.png in Resources */,
+				7AD0459825DAC314009519F2 /* soloAvion1.png in Resources */,
+				7A38F12825DC950500C0F818 /* ConfigureSheet.xib in Resources */,
+				7AD0459325DAC314009519F2 /* nubeAbajo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -166,11 +266,35 @@
 			buildActionMask = 2147483647;
 			files = (
 				7A6B91C025D5BBE500FB8A0A /* GameScene.swift in Sources */,
+				7A38F11A25DC845400C0F818 /* ConfigureSheetController.swift in Sources */,
 				7A7C0D5B25D588BC00D09AA7 /* AvionView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		7AD0457725DAC2E4009519F2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7AC5414025DBC13600F68D72 /* AppDelegate.swift in Sources */,
+				7AD0459125DAC314009519F2 /* AvionView.swift in Sources */,
+				7AD0458025DAC2E4009519F2 /* ViewController.swift in Sources */,
+				7AD0459225DAC314009519F2 /* GameScene.swift in Sources */,
+				7A38F11D25DC845700C0F818 /* ConfigureSheetController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		7AD0458325DAC2EB009519F2 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7AD0458425DAC2EB009519F2 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		7A7C0D5325D5886F00D09AA7 /* Debug */ = {
@@ -292,14 +416,14 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = "";
-				INFOPLIST_FILE = Avion/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Avion screensaver/Info.plist";
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 					"@loader_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				PRODUCT_BUNDLE_IDENTIFIER = com.desarrolloswebapp.Avion;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -316,18 +440,66 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = "";
-				INFOPLIST_FILE = Avion/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/Avion screensaver/Info.plist";
 				INSTALL_PATH = "$(HOME)/Library/Screen Savers";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 					"@loader_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				PRODUCT_BUNDLE_IDENTIFIER = com.desarrolloswebapp.Avion;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				WRAPPER_EXTENSION = saver;
+			};
+			name = Release;
+		};
+		7AD0458925DAC2EB009519F2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = testAvion/testAvion.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 3U64K6S6NA;
+				ENABLE_HARDENED_RUNTIME = YES;
+				INFOPLIST_FILE = testAvion/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				PRODUCT_BUNDLE_IDENTIFIER = com.desarrolloswebapp.wallpaper.testAvion;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		7AD0458A25DAC2EB009519F2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = testAvion/testAvion.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 3U64K6S6NA;
+				ENABLE_HARDENED_RUNTIME = YES;
+				INFOPLIST_FILE = testAvion/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
+				PRODUCT_BUNDLE_IDENTIFIER = com.desarrolloswebapp.wallpaper.testAvion;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -348,6 +520,15 @@
 			buildConfigurations = (
 				7A7C0D5625D5886F00D09AA7 /* Debug */,
 				7A7C0D5725D5886F00D09AA7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7AD0458825DAC2EB009519F2 /* Build configuration list for PBXNativeTarget "testAvion" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7AD0458925DAC2EB009519F2 /* Debug */,
+				7AD0458A25DAC2EB009519F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

@@ -4,9 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Resources/avi1.png</key>
+		<key>Resources/ConfigureSheet.nib</key>
 		<data>
-		fU5tq+M1x/vGQVepAhlX28Q3q+w=
+		KfCqaAQjNWU+kO8trI93zG/zQtg=
 		</data>
 		<key>Resources/avi2.png</key>
 		<data>
@@ -36,14 +36,18 @@
 		<data>
 		B52d64S2JK2GA9f6Ie3FTL5yJXQ=
 		</data>
+		<key>Resources/thumbnail.png</key>
+		<data>
+		fU5tq+M1x/vGQVepAhlX28Q3q+w=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Resources/avi1.png</key>
+		<key>Resources/ConfigureSheet.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FP1twd5/My/TP2QKlPgyGqXoSOJEEsE868/mHgZawgY=
+			w46R8239jJ/3kRIh1BKEA6/BwZxoy2LrQsQkZVsEzV4=
 			</data>
 		</dict>
 		<key>Resources/avi2.png</key>
@@ -93,6 +97,13 @@
 			<key>hash2</key>
 			<data>
 			7ei71XnTyi6FmyaJ78+Qs4IYM7nThiQ8sSKUuVnAoEY=
+			</data>
+		</dict>
+		<key>Resources/thumbnail.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FP1twd5/My/TP2QKlPgyGqXoSOJEEsE868/mHgZawgY=
 			</data>
 		</dict>
 	</dict>
